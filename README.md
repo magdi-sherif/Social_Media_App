@@ -5,5 +5,6 @@ its looks like social media app user can post image with description and interac
 ## i used :
 UIKit, StoryBoard, Alamofire, Swifty Json, and dummy api for API integration
 ### practice in this project:
+#### MVC Architecture patternc
 CRUD principle: user can create post or read, update it,
 API integration: for login, register, create, update, and read user profiles.
